@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="XyuGMwbOeq1ZeNb5u-XI">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-2" target="HF2zi4jLO3rQ-RF6DWZU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-2" value="Hubarc Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-4" target="HF2zi4jLO3rQ-RF6DWZU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-4" value="Artifactory Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-6" target="HF2zi4jLO3rQ-RF6DWZU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-6" value="Cognition Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-8" target="HF2zi4jLO3rQ-RF6DWZU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-8" value="Pathfinder Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-11" target="HF2zi4jLO3rQ-RF6DWZU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-11" target="HF2zi4jLO3rQ-RF6DWZU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-11" value="Data Sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-13" target="HF2zi4jLO3rQ-RF6DWZU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-13" value="Data Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-15" target="HF2zi4jLO3rQ-RF6DWZU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-15" value="Hubarc Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-17" target="HF2zi4jLO3rQ-RF6DWZU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-17" value="Cognition Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-19" target="HF2zi4jLO3rQ-RF6DWZU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-19" value="Pathfinder Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-20" value="Graph&lt;div&gt;Db&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HF2zi4jLO3rQ-RF6DWZU-22" target="HF2zi4jLO3rQ-RF6DWZU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-22" value="SAS Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-23" value="SAS Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-24" value="&lt;div&gt;RDB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="880" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HF2zi4jLO3rQ-RF6DWZU-25" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RDB&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="880" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
