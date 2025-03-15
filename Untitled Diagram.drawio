@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="ugGQgVMbagB-d_UOPRZE">
-    <mxGraphModel dx="1383" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,13 +49,19 @@
         <mxCell id="c8mFkDOcHo91OZbRw6ia-8" value="Hubarc Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="290" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c8mFkDOcHo91OZbRw6ia-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8mFkDOcHo91OZbRw6ia-10" target="c8mFkDOcHo91OZbRw6ia-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c8mFkDOcHo91OZbRw6ia-10" value="Cognition Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8mFkDOcHo91OZbRw6ia-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8mFkDOcHo91OZbRw6ia-11" target="c8mFkDOcHo91OZbRw6ia-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c8mFkDOcHo91OZbRw6ia-11" value="Pathfinder Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8mFkDOcHo91OZbRw6ia-16" value="Janus Graph&lt;div&gt;Db&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="c8mFkDOcHo91OZbRw6ia-16" value="Graph&lt;div&gt;Db&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="490" y="510" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c8mFkDOcHo91OZbRw6ia-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8mFkDOcHo91OZbRw6ia-21" target="c8mFkDOcHo91OZbRw6ia-22">
@@ -66,6 +72,12 @@
         </mxCell>
         <mxCell id="c8mFkDOcHo91OZbRw6ia-22" value="SAS Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8mFkDOcHo91OZbRw6ia-27" value="&lt;div&gt;RDB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="880" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c8mFkDOcHo91OZbRw6ia-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RDB&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="880" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
